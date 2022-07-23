@@ -1,0 +1,27 @@
+
+c02304_skill_bg_02.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+skill02/BG
+  rotate: false
+  xy: 2, 421
+  size: 898, 574
+  orig: 898, 574
+  offset: 0, 0
+  index: -1
+skill02/EF_back_1
+  rotate: false
+  xy: 2, 2
+  size: 442, 417
+  orig: 442, 417
+  offset: 0, 0
+  index: -1
+skill02/EF_back_2
+  rotate: false
+  xy: 902, 759
+  size: 916, 236
+  orig: 916, 236
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,40 @@
+{"frames": {
+
+"map0":
+{
+	"frame": {"x":0,"y":0,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":33},
+	"sourceSize": {"w":11,"h":33}
+},
+"map1":
+{
+	"frame": {"x":0,"y":11,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":33},
+	"sourceSize": {"w":11,"h":33}
+},
+"map2":
+{
+	"frame": {"x":0,"y":22,"w":11,"h":11},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":11,"h":33},
+	"sourceSize": {"w":11,"h":33}
+}
+},
+"animations": {
+	"map_zz": ["map0","map1","map2"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "map_zz.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":71},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bce7a64482fa323434e4ce6f33d01561:88770c4ed6a1ed1f93544e5e51c198bf:8f9cd4ff13c68004178d68678c9928f0$"
+}
+}

@@ -1,0 +1,39 @@
+{"frames": {
+
+"psdh0":
+{
+	"frame": {"x":2,"y":2,"w":140,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":182},
+	"sourceSize": {"w":140,"h":182}
+},
+"psdh1":
+{
+	"frame": {"x":144,"y":2,"w":140,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":182},
+	"sourceSize": {"w":140,"h":182}
+},
+"psdh2":
+{
+	"frame": {"x":286,"y":2,"w":140,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":140,"h":182},
+	"sourceSize": {"w":140,"h":182}
+}},
+"animations": {	
+	"psdh": ["psdh0","psdh1","psdh2","psdh0","psdh1","psdh2"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "psdh.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:b376ad59eefbd4ef5679aca735bcf363:655adc50fa64713a2ff6b34c45f696f2:1b2ef61ad1e0d6274030ceea576c3153$"
+}
+}

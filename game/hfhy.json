@@ -1,0 +1,39 @@
+{"frames": {
+"hfhy0":
+{
+	"frame": {"x":0,"y":0,"w":213,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":200},
+	"sourceSize": {"w":213,"h":200}
+},
+"hfhy1":
+{
+	"frame": {"x":30,"y":0,"w":183,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":183,"h":200},
+	"sourceSize": {"w":183,"h":200}
+},
+"hfhy2":
+{
+	"frame": {"x":0,"y":0,"w":213,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":213,"h":200},
+	"sourceSize": {"w":213,"h":200}
+}
+},
+"animations": {
+	"skill_hfhy": ["hfhy0","hfhy1","hfhy2"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "hfhy.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":71},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bce7a64482fa323434e4ce6f33d01561:88770c4ed6a1ed1f93544e5e51c198bf:8f9cd4ff13c68004178d68678c9928f0$"
+}
+}

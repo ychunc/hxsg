@@ -1,0 +1,31 @@
+{"frames": {
+
+"blood1":
+{
+	"frame": {"x":0,"y":0,"w":19,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":22},
+	"sourceSize": {"w":19,"h":22}
+},
+"blood2":
+{
+	"frame": {"x":19,"y":0,"w":19,"h":22},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":19,"h":22},
+	"sourceSize": {"w":19,"h":22}
+}},
+"animations": {
+	"blood": ["blood1","blood2"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "blood.png",
+	"format": "RGBA8888",
+	"size": {"w":38,"h":22},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:bce7a64482fa323434e4ce6f33d01561:88770c4ed6a1ed1f93544e5e51c198bf:8f9cd4ff13c68004178d68678c9928f0$"
+}
+}

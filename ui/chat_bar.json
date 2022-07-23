@@ -1,0 +1,46 @@
+{"frames": {
+"chat_q":
+{
+	"frame": {"x":77,"y":2,"w":73,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":80},
+	"sourceSize": {"w":73,"h":80}
+},
+"chat_p":
+{
+	"frame": {"x":2,"y":2,"w":73,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":80},
+	"sourceSize": {"w":73,"h":80}
+},
+"chat_shang":
+{
+	"frame": {"x":2,"y":84,"w":73,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":80},
+	"sourceSize": {"w":73,"h":80}
+},
+"chat_s":
+{
+	"frame": {"x":152,"y":2,"w":73,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":80},
+	"sourceSize": {"w":73,"h":80}
+}},
+"animations": {	
+	"chat_bar": ["chat_q","chat_p","chat_shang","chat_s"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "chat_bar.png",
+	"format": "RGBA8888",
+	"size": {"w":256,"h":256},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:936b95a72779a349c70f74334a31720c:c6ae62cad97d3d53b8ebe6e36ceecd2c:03ad966031fb8f0ba61446a1f7b289b2$"
+}
+}
