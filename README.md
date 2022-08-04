@@ -1,6 +1,6 @@
 git commit -m "first commit 🎉"
 
-[演示地址](https://ychunc.github.io/hxsg/dist)
+[演示地址](https://ychunc.github.io/hxsg/)
 
 
 ![image](./pk.png)
